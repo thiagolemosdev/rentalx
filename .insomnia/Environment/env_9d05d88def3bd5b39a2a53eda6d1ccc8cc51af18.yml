@@ -1,0 +1,14 @@
+_id: env_9d05d88def3bd5b39a2a53eda6d1ccc8cc51af18
+type: Environment
+parentId: wrk_61a79613a01c4f19a06a81efd479dacc
+modified: 1659556566452
+created: 1659556407823
+name: Base Environment
+data:
+  baseURL: aliencreative.com.br:3333
+dataPropertyOrder:
+  "&":
+    - baseURL
+color: null
+isPrivate: false
+metaSortKey: 1659556407823
