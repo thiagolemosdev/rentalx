@@ -1,10 +1,10 @@
 _id: req_3cd9fc7059914a54826b6b31d274c832
 type: Request
 parentId: fld_8fa6a369d55946bebe33beb2d4359228
-modified: 1659556575144
+modified: 1659556668978
 created: 1659556572902
 url: "{{ _.baseURL }}/categories"
-name: New Request
+name: List Categories
 description: ""
 method: GET
 body: {}
